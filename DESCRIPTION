@@ -1,0 +1,12 @@
+Package: radar
+Title: Package for analyzing and processing NEXRAD radar data
+Version: 0.0.2
+Authors@R: person("Matt", "Boone", email = "boone@udel.edu", role = c("aut", "cre"))
+Description: This package has functions used for processing radar data in R. 
+ Used by the Aerecology Program and the University of Delaware. It also includes many useful functions
+ that may help with analyzing radar.
+Depends:
+    R (>= 3.2.2)
+License: This is a private package used in conjunction with the Aeroecology Lab at the University of Delaware
+LazyData: true
+RoxygenNote: 5.0.1
